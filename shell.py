@@ -1,7 +1,7 @@
 import pangolang
 
 while True:
-	text = input('pangolang >>  ')
+	text = input('pengolang >>  ')
 	if text.strip() == "": continue
 	result, error = pangolang.run('<stdin>', text)
 
