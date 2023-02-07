@@ -1,4 +1,4 @@
-# Pangolang
+# Pengolang
 A python based programming language. Pangolang files have a file extension named ```.pan```
 
 # Run Scripts
